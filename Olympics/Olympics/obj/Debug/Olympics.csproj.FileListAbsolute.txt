@@ -1,0 +1,8 @@
+C:\Users\johnr\source\repos\Olympics\Olympics\bin\Debug\Olympics.exe.config
+C:\Users\johnr\source\repos\Olympics\Olympics\bin\Debug\Olympics.exe
+C:\Users\johnr\source\repos\Olympics\Olympics\bin\Debug\Olympics.pdb
+C:\Users\johnr\source\repos\Olympics\Olympics\obj\Debug\Olympics.csproj.AssemblyReference.cache
+C:\Users\johnr\source\repos\Olympics\Olympics\obj\Debug\Olympics.csproj.SuggestedBindingRedirects.cache
+C:\Users\johnr\source\repos\Olympics\Olympics\obj\Debug\Olympics.csproj.CoreCompileInputs.cache
+C:\Users\johnr\source\repos\Olympics\Olympics\obj\Debug\Olympics.exe
+C:\Users\johnr\source\repos\Olympics\Olympics\obj\Debug\Olympics.pdb
